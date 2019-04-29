@@ -1,0 +1,4 @@
+Linked List adalah suatu Linked List yang tidak memiliki
+nilai nil/NULL untuk medan sambungannya sedangkan 
+Linear Linked List adalah koleksi data item yang tersusun dalam sebuah barisan secara Linear, 
+dengan penyisipan dan pemindahan dapat dilakukan dalam semua tempat di LL tersebut.
